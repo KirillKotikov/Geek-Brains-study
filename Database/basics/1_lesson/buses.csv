@@ -1,0 +1,11 @@
+bus_id;manufacturer;model;production_year;passengers_count;
+1;Kamaz;Модель_4;1981;30;
+2;Kamaz;Модель_4;2010;43;
+3;Kamaz;Модель_5;2006;32;
+4;Kamaz;Модель_7;2000;30;
+5;Man;Модель_2;2004;38;
+6;Man;Модель_9;1981;44;
+7;Kamaz;Модель_2;2013;38;
+8;Kamaz;Модель_3;2009;36;
+9;Mercedes;Модель_3;2005;42;
+10;Mercedes;Модель_5;2009;37;

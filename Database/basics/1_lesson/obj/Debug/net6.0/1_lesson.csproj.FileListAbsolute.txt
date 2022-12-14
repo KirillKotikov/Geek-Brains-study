@@ -1,0 +1,15 @@
+/Users/kirillkotikov/Desktop/GeekBrains/database_lessons/familiarity_with_databases/1_lesson/bin/Debug/net6.0/1_lesson
+/Users/kirillkotikov/Desktop/GeekBrains/database_lessons/familiarity_with_databases/1_lesson/bin/Debug/net6.0/1_lesson.deps.json
+/Users/kirillkotikov/Desktop/GeekBrains/database_lessons/familiarity_with_databases/1_lesson/bin/Debug/net6.0/1_lesson.runtimeconfig.json
+/Users/kirillkotikov/Desktop/GeekBrains/database_lessons/familiarity_with_databases/1_lesson/bin/Debug/net6.0/1_lesson.dll
+/Users/kirillkotikov/Desktop/GeekBrains/database_lessons/familiarity_with_databases/1_lesson/bin/Debug/net6.0/1_lesson.pdb
+/Users/kirillkotikov/Desktop/GeekBrains/database_lessons/familiarity_with_databases/1_lesson/obj/Debug/net6.0/1_lesson.csproj.AssemblyReference.cache
+/Users/kirillkotikov/Desktop/GeekBrains/database_lessons/familiarity_with_databases/1_lesson/obj/Debug/net6.0/1_lesson.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirillkotikov/Desktop/GeekBrains/database_lessons/familiarity_with_databases/1_lesson/obj/Debug/net6.0/1_lesson.AssemblyInfoInputs.cache
+/Users/kirillkotikov/Desktop/GeekBrains/database_lessons/familiarity_with_databases/1_lesson/obj/Debug/net6.0/1_lesson.AssemblyInfo.cs
+/Users/kirillkotikov/Desktop/GeekBrains/database_lessons/familiarity_with_databases/1_lesson/obj/Debug/net6.0/1_lesson.csproj.CoreCompileInputs.cache
+/Users/kirillkotikov/Desktop/GeekBrains/database_lessons/familiarity_with_databases/1_lesson/obj/Debug/net6.0/1_lesson.dll
+/Users/kirillkotikov/Desktop/GeekBrains/database_lessons/familiarity_with_databases/1_lesson/obj/Debug/net6.0/refint/1_lesson.dll
+/Users/kirillkotikov/Desktop/GeekBrains/database_lessons/familiarity_with_databases/1_lesson/obj/Debug/net6.0/1_lesson.pdb
+/Users/kirillkotikov/Desktop/GeekBrains/database_lessons/familiarity_with_databases/1_lesson/obj/Debug/net6.0/1_lesson.genruntimeconfig.cache
+/Users/kirillkotikov/Desktop/GeekBrains/database_lessons/familiarity_with_databases/1_lesson/obj/Debug/net6.0/ref/1_lesson.dll

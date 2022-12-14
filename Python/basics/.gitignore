@@ -1,0 +1,5 @@
+.DS_store
+__pycache__
+.vscode/
+get-pip.py
+config.py
